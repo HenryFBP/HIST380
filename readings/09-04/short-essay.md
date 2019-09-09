@@ -43,7 +43,8 @@ We would want to look at poor black communities and their educational programs,
 the resources afforded to poor black schools versus richer ones, and how that
 affects engagement in and understanding of programming as a profession.
 
-In addition to this, we would need to see why women and minorities are deterred from joining the programming field, and tech fields as a whole.
+In addition to this, we would need to see why women and minorities are deterred
+from joining the programming field, and tech fields as a whole.
 
 This essay allows us to look at a technology (programming) that has a very large
 potential to be an 'egalitarian' technology in that it has no apparently
