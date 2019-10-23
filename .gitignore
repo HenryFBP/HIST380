@@ -2,3 +2,7 @@
 *.aux
 *.log
 *.synctex.gz
+*.bbl
+*.bbg
+*.blg
+*.synctex(busy)
