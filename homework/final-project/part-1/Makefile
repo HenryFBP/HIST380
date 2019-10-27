@@ -1,4 +1,4 @@
-all: pdf clean
+all: pdf
 
 pdf:
 	pdflatex --shell-escape part-1-hpost.tex
