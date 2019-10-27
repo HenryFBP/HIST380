@@ -1,4 +1,4 @@
-# Citations for part 1
+# Informal notes for part 1
 
 Henry Post, hpost@hawk.iit, HIST 380
 
@@ -41,4 +41,4 @@ http://216.47.157.203/technews/volume88/tnvol88no2.pdf#page=3
 - Homosexuals seek equality with help of gay liberation
 - from 1970
 - break down assumptions about gay ppl
-- 
+-
