@@ -1,8 +1,12 @@
 *.~lock*
 *.aux
 *.log
+*.out
+*.lua
 *.synctex.gz
 *.bbl
 *.bbg
 *.blg
 *.synctex(busy)
+.fuse_hidden*
+_markdown*/
