@@ -22,3 +22,14 @@ Previous readings as puzzle pieces, current readings as puzzle pieces as well. D
 
     - this is because govts may want to block facebook if they can't use it to disseminate propoganda
 
+## The puzzle
+
+I think these readings as well as the previous readings all have to do with **shitty tech regulation**.
+
+When tech platforms like google and fb were young, they really had poor regulation for multiple reasons. I mean, you couldn't even request your data until a few years ago.
+
+The first is that they were young. Why regulate it? In early years, it doesn't make billions of dollars and is maybe only used by a million people.
+
+The second is that there is no necessity to regulate a platform that is young because the scope of harmful effects are negligible if its interests haven't become far too complicated.
+
+But, now regulation of certain aspects of tech platforms is a necessity to avoid blackmailing, fake accounts, acct hijacking, and the spread of harmful propoganda & fake news.
