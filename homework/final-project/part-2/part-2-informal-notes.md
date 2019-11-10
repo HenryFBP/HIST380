@@ -19,10 +19,30 @@ research and turn it in (printed out) in class on Monday, November 11.
 
 ## Search terms
 
-* none
+* african
+    - student union
+    - american
 
-* a
+* ...
 
 ## Interesting Articles
 
-none
+* https://i-share.carli.illinois.edu/vf-iit/Record/IITdb.132821
+
+* https://i-share.carli.illinois.edu/vf-iit/Record/IITdb.827803
+
+* https://www.google.com/search?tbo=p&tbm=bks&q=illinois+institute+of+technology&tbs=,bkt:m,bkms:1168684103302643773
+
+  Searching for 'iit' inside ebony mag
+
+* https://www.google.com/search?tbo=p&tbm=bks&q=punch+card&tbs=,bkt:m,bkms:1168684103302643773
+
+  Searching for 'punch card' in ebony
+
+  Ebony Apr 1969 
+  ISSN 0012-9011
+
+  Punch Card Pros
+
+  Black business owner, Julius A Baylor, chairman of Data Preparation Corp, employs a large amount of black
+
