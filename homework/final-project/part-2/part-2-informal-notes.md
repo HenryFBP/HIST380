@@ -17,6 +17,41 @@ research and turn it in (printed out) in class on Monday, November 11.
 
 -->
 
+main points:
+
+* history is kind of repeating itself in certain aspects
+
+old:
+
+* women in britain who worked for International Computers and Tabulators listened to, went on strike
+
+* women in NASA were largely ignored and discounted
+
+new:
+
+* Google ethics board issues (find sources)
+
+* Twitter execs are only white dudes
+  + that one employee guy at the company who left
+
+  + causes them to be totally disconnected from black history and black issues
+
+  + causes them to mishandle social events that occur and make assumptions and conclusions that don't apply to black
+
+people
+
++ ex.trying to detect how many black people use twitter by their last names: Slavery in the US messed up a lot of black names so that will generate inaccurate data. There's no way for the white guys to know that unless they're black american history buffs
+
+* Facial recognition accuracy issues with black faces
+
+conclusion: we are seeing echoes from the past history of discrimination in computing that is still affecting high techology today
+
+a lot of things have gotten better, and the reasons now are actually different
+
+* in the past, POC and women were discriminated against for profit and because people were racist
+
+* now, POC and women are discriminated agaist...well, mainly to avoid regulation and for profit. It is unclear how much idealistic (conscious) discrimination has contributed to the treatment of minority groups, but does it really matter? It's still discrimination because actions speak louder than thoughts
+
 ## Search terms
 
 * african
@@ -37,7 +72,7 @@ research and turn it in (printed out) in class on Monday, November 11.
 
 * <https://www.timetoast.com/timelines/hidden-figures-timeline-bb0e6e88-7edb-4079-acb3-86b15884ca53>
 
-  not directly relevant, but timeline of hidden figures book. useful for date references.
+  not directly relevant, but timeline of hidden figures book.useful for date references.
 
 * <https://i-share.carli.illinois.edu/vf-iit/Record/IITdb.132821>
 
@@ -66,4 +101,4 @@ research and turn it in (printed out) in class on Monday, November 11.
 
 * Ad for girls 14.5 years old to be trained as punch card accountancy machine operators
 
-  "Books And Prints." Times, 7 July 1941, p. 1. The Times Digital Archive, <http://tinyurl.gale.com/tinyurl/CBqUj0.> Accessed 10 Nov. 2019.
+  "Books And Prints." Times, 7 July 1941, p.1. The Times Digital Archive, <http://tinyurl.gale.com/tinyurl/CBqUj0.> Accessed 10 Nov.2019.
