@@ -17,6 +17,8 @@ research and turn it in (printed out) in class on Monday, November 11.
 
 -->
 
+## Outline
+
 main points:
 
 * history is kind of repeating itself in certain aspects
@@ -36,21 +38,30 @@ new:
 
   + causes them to be totally disconnected from black history and black issues
 
-  + causes them to mishandle social events that occur and make assumptions and conclusions that don't apply to black
+  + causes them to mishandle social events that occur and make assumptions and conclusions that don't apply to black people
 
-people
-
-+ ex.trying to detect how many black people use twitter by their last names: Slavery in the US messed up a lot of black names so that will generate inaccurate data. There's no way for the white guys to know that unless they're black american history buffs
+  + example: trying to detect how many black people use twitter by their last names: Slavery in the US messed up a lot of black names so that will generate inaccurate data. There's no way for the white guys to know that unless they're black american history buffs
 
 * Facial recognition accuracy issues with black faces
 
-conclusion: we are seeing echoes from the past history of discrimination in computing that is still affecting high techology today
+### Conclusion
 
-a lot of things have gotten better, and the reasons now are actually different
+we are seeing echoes from the past history of discrimination in computing that is still affecting high techology today.
+a lot of things have gotten better, but the reasons for discrimination now are mostly the same: profit!
+
+black people and women are discounted, ignored, and treated as essentially public relations assets by Facebook, Twitter, etc.
+
+'If you want to mitigate the social risk of having a largely white male team, either overhaul your entire company's hiring structure and ethics structure or publish a nice PR campaign with just enough minorities in it to trick people into thinking you care about diversity'
 
 * in the past, POC and women were discriminated against for profit and because people were racist
 
-* now, POC and women are discriminated agaist...well, mainly to avoid regulation and for profit. It is unclear how much idealistic (conscious) discrimination has contributed to the treatment of minority groups, but does it really matter? It's still discrimination because actions speak louder than thoughts
+* now, POC and women are discriminated agaist to avoid self-regulation/self-policing and for profit. 
+
+  It is unclear how much idealistic (conscious) discrimination has contributed to the treatment of minority groups, but does it really matter?
+  
+  It's still discrimination because actions speak louder than thoughts
+
+* definitely not socially acceptable to be openly racist, but if nothing happens because of subversive company racism, 'who cares?'
 
 ## Search terms
 
