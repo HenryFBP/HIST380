@@ -55,7 +55,7 @@ black people and women are discounted, ignored, and treated as essentially publi
 
 * in the past, POC and women were discriminated against for profit and because people were racist
 
-* now, POC and women are discriminated agaist to avoid self-regulation/self-policing and for profit. 
+* now, POC and women are discriminated agaist to avoid self-regulation/self-policing and for profit.
 
   It is unclear how much idealistic (conscious) discrimination has contributed to the treatment of minority groups, but does it really matter?
   
@@ -83,7 +83,7 @@ black people and women are discounted, ignored, and treated as essentially publi
 
 * <https://www.timetoast.com/timelines/hidden-figures-timeline-bb0e6e88-7edb-4079-acb3-86b15884ca53>
 
-  not directly relevant, but timeline of hidden figures book.useful for date references.
+  not directly relevant, but timeline of hidden figures book... useful for date references.
 
 * <https://i-share.carli.illinois.edu/vf-iit/Record/IITdb.132821>
 
@@ -113,3 +113,10 @@ black people and women are discounted, ignored, and treated as essentially publi
 * Ad for girls 14.5 years old to be trained as punch card accountancy machine operators
 
   "Books And Prints." Times, 7 July 1941, p.1. The Times Digital Archive, <http://tinyurl.gale.com/tinyurl/CBqUj0.> Accessed 10 Nov.2019.
+
+* Ad in Ebony for PASCAL/COBOL/FORTRAN experience
+
+  <https://books.google.com/books?id=3csDAAAAMBAJ&lpg=PA61&dq=war%20programmer&pg=PA62#v=onepage&q=war%20programmer&f=false>
+  
+  This ad in Ebony, the black magazine, calls for programmers experienced with PASCAL, COBOL, FORTRAN, etc.
+
