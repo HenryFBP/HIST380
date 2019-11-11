@@ -108,7 +108,7 @@ black people and women are discounted, ignored, and treated as essentially publi
 
   Article from 1965 talking about computer strikes in UK gov't
 
-  FROM OUR LABOUR STAFF."Computer Strikes To Be 'Escalated'." Times, 18 June 1965, p.6. The Times Digital Archive, <http://tinyurl.gale.com/tinyurl/CBq8D8.> Accessed 10 Nov.2019.
+  FROM OUR LABOUR STAFF."Computer Strikes To Be 'Escalated'." Times, 18 June 1965, p.6. The Times Digital Archive, <http://tinyurl.gale.com/tinyurl/CBq8D8> Accessed 10 Nov.2019.
 
 * Ad for girls 14.5 years old to be trained as punch card accountancy machine operators
 
