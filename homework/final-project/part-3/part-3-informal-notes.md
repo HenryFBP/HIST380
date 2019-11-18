@@ -1,4 +1,4 @@
-# Informal notes for part 2
+# Informal notes for part 3
 
 Henry Post, hpost@hawk.iit, HIST 380
 
