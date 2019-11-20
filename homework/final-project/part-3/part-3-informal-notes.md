@@ -39,7 +39,15 @@ Is there even data on the subject of how women/black people/black women self-rep
 
 ## Search terms
 
-- none
+- bronzeville, pilsen, hyde park
+
+- gentrification
+
+- iit
+
+- iit demographics/demographics
+
+- mecca flats
 
 ## External articles
 
