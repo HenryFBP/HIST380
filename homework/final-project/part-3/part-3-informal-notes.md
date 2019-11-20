@@ -2,6 +2,20 @@
 
 Henry Post, hpost@hawk.iit, HIST 380
 
+## Allowed sources
+
+- Articles from class
+- Sources from P1 and P2
+- Suggestions from Prof. Hicks
+- Potentially can use sources that are either very related or directly referenced by one of the above allowed source sources
+
+## Submission date
+
+Dec (6th said in class) (5th said on doc), before (5PM said in provided document) (7PM said in class)
+
+Best case: Dec 6th, 7PM
+Worst case: Dec 5th, 5PM
+
 ## Main Point
 
 I want to draw evidence that examines how the state of diversity and equality in the workplace has (or hasn't) changed over time.
