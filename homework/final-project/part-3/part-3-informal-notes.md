@@ -9,18 +9,21 @@ Henry Post, hpost@hawk.iit, HIST 380
 - Suggestions from Prof. Hicks
 - Potentially can use sources that are either very related or directly referenced by one of the above allowed source sources
 
+### In-class on sources
+- If you find one or two academic sources that add to your argument very well, it's fine to bring in a secondary source
+- Don't rely totally on secondary sources though, def. don't just use Google.
+
 ## Submission date
 
-Dec (6th said in class) (5th said on doc), before (5PM said in provided document) (7PM said in class)
-
-Best case: Dec 6th, 7PM
-Worst case: Dec 5th, 5PM
+jk its dec 6th 4pm
 
 ## Main Point
 
 I want to draw evidence that examines how the state of diversity and equality in the workplace has (or hasn't) changed over time.
 
 >> "Workplace equality as a function of time"?
+
+>> "How have various aspects workplace equality (equity?) changed over time in tech jobs?"
 
 Are women treated better?
 
@@ -38,6 +41,14 @@ Is there even data on the subject of how women/black people/black women self-rep
 
 - none
 
-## Interesting Articles
+## External articles
 
-none
+* cannot use P1 sources as they are irrelevant
+
+* must use p2 sources, and draw more secondary sources from journals
+
+- https://journals.sagepub.com/doi/pdf/10.1177/1078087412465590
+  
+  About gentrification in bronzeville
+
+  Found in buddy pairing exercise in class
