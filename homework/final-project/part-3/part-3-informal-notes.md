@@ -49,6 +49,31 @@ Is there even data on the subject of how women/black people/black women self-rep
 
 - mecca flats
 
+- workplace equality
+
+- workplace equity
+
+## Reused articles
+
+[1] “Ebony” Ebony Magazine Vol. 35, No. 12, Page 61
+Johnson Publishing Company,
+https://books.google.com/books?id=3csDAAAAMBAJ&lpg=PA61&dq=war%20programmer&pg=PA61#v=onepage&q=war%20programmer&f=false
+Accessed 9 Nov.2019.
+
+[2] “Books And Prints.” Times, 7 July 1941, p.1. The Times Digital Archive,
+http://tinyurl.gale.com/tinyurl/CBqUj0.
+Accessed 10 Nov.2019.
+
+[3] “Computer Strikes To Be ’Escalated’.” Times, 18 June 1965, p.6. The Times Digital
+Archive,
+http://tinyurl.gale.com/tinyurl/CBq8D8.
+Accessed 10 Nov.2019.
+
+[4] “Ebony” Ebony Magazine Vol. 24, No. 6, Page 113
+Johnson Publishing Company,
+https://books.google.com/books?id=HN8DAAAAMBAJ&lpg=PA113&dq=punch%20card&pg=PA113#v=onepage&q&f=false
+Accessed 11 Nov. 2019
+
 ## External articles
 
 * cannot use P1 sources as they are irrelevant
@@ -60,3 +85,17 @@ Is there even data on the subject of how women/black people/black women self-rep
   About gentrification in bronzeville
 
   Found in buddy pairing exercise in class
+
+- From note on P2 from Hicks:
+
+  I need more sources about black business owners and how black people were treated in Britain in tech jobs to make the conclusions that I make
+
+  "You'd have to look at a black analogue of Ebony"
+
+- Fehn, Bruce. "African-American women and the struggle for equality in the meatpacking industry, 1940-1960." Journal of Women's History 10.1 (1998): 45-69.
+
+- https://books.google.com/books?id=hxH5WoQVMJQC&lpg=PR5&ots=kOMbuDjuQS&dq=pay%20equality%201940&lr&pg=PR5#v=onepage&q=pay%20equality%201940&f=false
+
+- https://www.tandfonline.com/doi/abs/10.1080/00236569512331385332?journalCode=clah20
+
+- https://muse.jhu.edu/article/364192
