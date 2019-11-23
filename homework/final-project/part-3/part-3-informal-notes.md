@@ -53,6 +53,12 @@ Is there even data on the subject of how women/black people/black women self-rep
 
 - workplace equity
 
+- League of Coloured Peoples
+
+- Black Cultural Archives
+
+- black british publications
+
 ## Reused articles
 
 [1] “Ebony” Ebony Magazine Vol. 35, No. 12, Page 61
@@ -90,7 +96,13 @@ Accessed 11 Nov. 2019
 
   I need more sources about black business owners and how black people were treated in Britain in tech jobs to make the conclusions that I make
 
-  "You'd have to look at a black analogue of Ebony"
+  "You'd have to look at a black analogue of Ebony in New Britain"
+
+  - Looking, but IDK if there was a magazine as large as Ebony from what I can find.
+
+    - Found "League of Colored Peoples", an anti-racism organization that existed in Britain, formed in 1940.
+
+    - Still looking. Nothing yet.
 
 - Fehn, Bruce. "African-American women and the struggle for equality in the meatpacking industry, 1940-1960." Journal of Women's History 10.1 (1998): 45-69.
 
@@ -99,3 +111,7 @@ Accessed 11 Nov. 2019
 - https://www.tandfonline.com/doi/abs/10.1080/00236569512331385332?journalCode=clah20
 
 - https://muse.jhu.edu/article/364192
+
+- https://www.bl.uk/collection-guides/black-britain-publications
+
+- http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?vid=BLVU1&search_scope=LSCOP-ALL&docId=BLL01017957566&fn=permalink
