@@ -1,6 +1,7 @@
-all: pdf pdf clean
+all: pdf clean
 
 pdf:
+	pdflatex --shell-escape part-2-hpost.tex
 	pdflatex --shell-escape part-2-hpost.tex
 
 clean:
