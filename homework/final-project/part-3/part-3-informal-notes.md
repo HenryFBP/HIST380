@@ -21,9 +21,9 @@ jk its dec 6th 4pm
 
 I want to draw evidence that examines how the state of diversity and equality in the workplace has (or hasn't) changed over time.
 
->> "Workplace equality as a function of time"?
+    "Workplace equality as a function of time"?
 
->> "How have various aspects workplace equality (equity?) changed over time in tech jobs?"
+    "How have various aspects workplace equality (equity?) changed over time in tech jobs?"
 
 Are women treated better?
 
@@ -105,6 +105,12 @@ Accessed 11 Nov. 2019
     - Still looking. Nothing yet.
 
 - Fehn, Bruce. "African-American women and the struggle for equality in the meatpacking industry, 1940-1960." Journal of Women's History 10.1 (1998): 45-69.
+
+- https://www.pewsocialtrends.org/2018/01/09/women-and-men-in-stem-often-at-odds-over-workplace-equity/
+
+  Article about inequality between men and women in STEM jobs, as well as across race
+
+  Has really, really good graphs and data. I wish I could find data like this for 1950. Census maybe?
 
 - https://books.google.com/books?id=hxH5WoQVMJQC&lpg=PR5&ots=kOMbuDjuQS&dq=pay%20equality%201940&lr&pg=PR5#v=onepage&q=pay%20equality%201940&f=false
 
