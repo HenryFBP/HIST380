@@ -19,11 +19,11 @@ jk its dec 6th 4pm
 
 ## Main Point
 
-I want to draw evidence that examines how the state of diversity and equality in the workplace has (or hasn't) changed over time.
+I want to draw evidence that examines how the state of diversity and equality in the workplace has (or hasn't) changed over time.  
 
-    "Workplace equality as a function of time"?
+"Workplace equality as a function of time"?
 
-    "How have various aspects workplace equality (equity?) changed over time in tech jobs?"
+"How have various aspects workplace equality (equity?) changed over time in tech jobs?"
 
 Are women treated better?
 
